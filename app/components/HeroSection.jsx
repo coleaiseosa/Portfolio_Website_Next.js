@@ -44,8 +44,9 @@ const HeroSection = () => {
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                 <a
                   className="cv"
-                  href="/files/Okafor_Cole_Aiseosa_Resume.pdf"
-                  download="Okafor_Cole_Aiseosa_Resume.pdf"
+                  href="/files/Okafor_Cole_Aiseosa_CV_.pdf"
+                  target="_blank"
+                  download="Okafor_Cole_Aiseosa_CV_.pdf"
                 >
                   Download CV
                 </a>

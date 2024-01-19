@@ -11,7 +11,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>HTML</li>
         <li>CSS</li>
-        <li>Tailwibd CSS</li>
+        <li>Tailwind CSS</li>
         <li>BootStrap</li>
         <li>JavaScript</li>
         <li>TypeScript</li>
@@ -76,7 +76,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Hi, My name is Aiseosa Marcella Cole. I am a web developer with a
+            Hi, my name is Aiseosa Marcella Cole. I am a web developer with a
             background in Graphic designing. I am proficient in languages like
             HTML, CSS and JavaScript and frameworks such as React. I love
             creating user-friendly and visually appealing websites.

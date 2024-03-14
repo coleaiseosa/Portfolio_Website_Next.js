@@ -15,6 +15,8 @@ const TAB_DATA = [
         <li>BootStrap</li>
         <li>JavaScript</li>
         <li>TypeScript</li>
+        <li>React</li>
+        <li>React Native</li>
         <li>Next.js</li>
         <li>Node.js</li>
         <li>Express</li>
